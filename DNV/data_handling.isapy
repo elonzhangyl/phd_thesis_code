@@ -1,0 +1,7 @@
+""" Calculate maximum and minimum values for each column in the supplied data file (polar_data.csv)
+The max/min values should be printed to the screen to 3 significant figures and clearly labelled.
+
+Given a sinusoidally varying angle of attack with mean 5 deg, amplitude 3 deg and period 10 seconds,
+compute the time varying static lift coefficient and show it in a plot.
+
+Complete the task using either matlab or python programming languages."""
